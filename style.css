@@ -1,0 +1,12 @@
+body {
+    background: black;
+}
+
+h1 {
+    color: blue;
+}
+
+#knappen {
+    color: red;
+    background: white;
+}
